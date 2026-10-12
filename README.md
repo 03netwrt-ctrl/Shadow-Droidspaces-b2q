@@ -92,4 +92,4 @@ then reboot.
 
 ---
 
-**Powered by 03NET** — Telegram [@O3netwrt77](https://t.me/O3netwrt77) · [03net.my.id](https://03net.my.id)
+**Powered by 03NET** — Telegram [@O3netwrt77](https://t.me/O3netwrt77)
